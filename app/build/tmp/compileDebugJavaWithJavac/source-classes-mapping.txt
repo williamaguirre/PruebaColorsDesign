@@ -1,0 +1,4 @@
+williamaguirre/pruebadesign/BuildConfig.java
+ williamaguirre.pruebadesign.BuildConfig
+williamaguirre/pruebadesign/MainActivity.java
+ williamaguirre.pruebadesign.MainActivity
